@@ -11,6 +11,6 @@
 >截图：
 
 
-[res/e_1_0.jpeg](res/e_1_0.jpeg)
-[res/e_1_1.jpeg](res/e_1_1.jpeg)
+[https://github.com/LemonGG/three.js-helper/blob/master/res/e_1_0.jpeg](https://github.com/LemonGG/three.js-helper/blob/master/res/e_1_0.jpeg)
+[https://github.com/LemonGG/three.js-helper/blob/master/res/e_1_1.jpeg](https://github.com/LemonGG/three.js-helper/blob/master/res/e_1_1.jpeg)
 
